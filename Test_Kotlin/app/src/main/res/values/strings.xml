@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test_Kotlin</string>
+    <string name="roll">Roll!</string>
+    <string name="roll_dice">Roll Dice!</string>
+</resources>
